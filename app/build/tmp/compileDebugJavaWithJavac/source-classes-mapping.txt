@@ -1,0 +1,2 @@
+mx/tecnm/tepic/tap_u5_ejercicio2_menuestructurascontrol/BuildConfig.java
+ mx.tecnm.tepic.tap_u5_ejercicio2_menuestructurascontrol.BuildConfig
